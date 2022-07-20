@@ -1,4 +1,4 @@
-# Repositório de Projetos Sobre o: Bootcamp Santander Fullstack
+# Repositório de Projetos: Bootcamp Santander Fullstack
 
 Desafio de Código/Projeto sobre Git/GitHub
 
